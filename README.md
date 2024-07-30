@@ -12,6 +12,8 @@ This Python script collects system information, finds stored Discord tokens, cap
 
 ### 1. تثبيت المكتبات المطلوبة
 
+
+
 ```bash
 pip install pyautogui requests
 
