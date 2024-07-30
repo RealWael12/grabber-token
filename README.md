@@ -4,11 +4,11 @@ This Python script collects system information, finds stored Discord tokens, cap
 
 
 
-تأكد من استبدال `"WEBHOOK_URL"` برابط الويب هوك الخاص بك في الكود:
 
 
 
 ## كيفية الاستخدام
+تأكد من استبدال `"WEBHOOK_URL"` برابط الويب هوك الخاص بك في الكود:
 
 ### 1. تثبيت المكتبات المطلوبة
 
