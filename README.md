@@ -10,7 +10,7 @@ This Python script collects system information, finds stored Discord tokens, cap
 ## كيفية الاستخدام
 تأكد من استبدال `"WEBHOOK_URL"` برابط الويب هوك الخاص بك في الكود:
 
-### 1. تثبيت المكتبات المطلو 
+### 1. تثبيت المكتبات المطلوبه
 
 pip install pyautogui requests
 
